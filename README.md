@@ -1,5 +1,5 @@
-# react-parcel-base
-Basic building block for a React site managed by Parcel.js
+# frontend-parcel-base
+Basic building block for a modern ECMAScript frontend site managed by Parcel.js
 
 ### Commands
 #### yarn start
